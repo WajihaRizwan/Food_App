@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
             colors: [
               Colors.deepPurple.shade900,
               Colors.black,
-            ],
+            ], 
           ),
         ),
         child: SingleChildScrollView(
